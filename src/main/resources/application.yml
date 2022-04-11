@@ -1,0 +1,9 @@
+server:
+  port: 8085
+  
+spring:
+  data:
+    mongodb:
+      database: UserMicroservice
+      host: localhost
+      port: 27017
